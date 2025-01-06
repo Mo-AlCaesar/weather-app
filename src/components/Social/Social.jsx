@@ -2,7 +2,7 @@ import { FaFacebook, FaGithub, FaLink } from "react-icons/fa";
 
 export default function Social() {
   return (
-    <div className="flex justify-center gap-6 mt-6">
+    <div className="flex justify-center gap-6 mt-10">
       <a
         href="https://github.com/Mo-AlCaesar"
         target="_blank"
@@ -22,7 +22,7 @@ export default function Social() {
         target="_blank"
         rel="noopener noreferrer"
       >
-        <FaLink size={30} className="text-green-500 hover:text-green-400" />
+        <FaLink size={30} className="text-sky-600 hover:text-sky-600" />
       </a>
     </div>
   );

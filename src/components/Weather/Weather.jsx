@@ -32,8 +32,8 @@ export default function Weather({ weather, error }) {
               <WiThermometer size={30} className="text-red-500" />
               Temperature
             </p>
-            <p className="flex items-center justify-center gap-2 text-blue-500 font-bold">
-              <WiWindy size={30} className="text-blue-500" />
+            <p className="flex items-center justify-center gap-2 text-sky-600 font-bold">
+              <WiWindy size={30} className="text-sky-600" />
               Wind Speed :{" "}
               <span className="font-semibold">{weather.windspeed} km/h</span>
             </p>

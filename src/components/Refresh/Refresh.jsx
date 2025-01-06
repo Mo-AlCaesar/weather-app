@@ -30,7 +30,7 @@ export default function Refresh({
     <div className="flex justify-center mt-6">
       <button
         onClick={handleRefresh}
-        className="bg-indigo-600 hover:bg-indigo-500 text-white px-6 py-2 rounded-md flex items-center gap-2"
+        className="bg-sky-600 hover:bg-sky-600 text-white px-6 py-2 rounded-lg flex items-center gap-2"
       >
         <FaRedo size={20} />
         Refresh

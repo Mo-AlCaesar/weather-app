@@ -57,13 +57,14 @@ const App = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-indigo-500 via-purple-600 to-pink-500 text-white flex flex-col items-center justify-center px-4">
-      <div className="header">
-        <h1 className="text-5xl font-extrabold text-center text-white mb-8">
-          Weather App
-        </h1>
-      </div>
+    <div className="min-h-screen bg-gradient-to-b from-sky-500 via-cyan-600 to-teal-400 text-white flex items-center justify-center px-4">
       <div className="w-full max-w-md bg-gradient-to-b from-white to-gray-100 rounded-2xl shadow-2xl p-8">
+        <div className="header flex flex-col items-center justify-center">
+          <img src="icon.png" alt="" className="page-icon" />
+          <h1 className="text-3xl font-extrabold text-center text-cyan-600 mb-8">
+            Weather App
+          </h1>
+        </div>
         <Error error={error} />
 
         <Location location={location} />
