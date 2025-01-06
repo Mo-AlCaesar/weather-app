@@ -18,7 +18,7 @@ export default function Social() {
         <FaFacebook size={30} className="text-blue-600 hover:text-blue-500" />
       </a>
       <a
-        href="https://your-repo-link.com"
+        href="https://github.com/Mo-AlCaesar/weather-app"
         target="_blank"
         rel="noopener noreferrer"
       >
