@@ -85,10 +85,10 @@ Follow these steps to run the project locally:
 
 ## 🖼️ Screenshots
 
-| **Homepage**                              |
-| ----------------------------------------- |
-| ![Home Page](link_to_homepage_screenshot) |
+| **Homepage**                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------- |
+| ![Home Page](https://raw.githubusercontent.com/Mo-AlCaesar/weather-app/refs/heads/main/public/screenshot/screen-597814.png) |
 
 ---
 
-### 🌟 Enjoy exploring the Quran Karim project! 😊
+### 🌟 Enjoy exploring the Weather App project! 😊
